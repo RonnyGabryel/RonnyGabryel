@@ -4,4 +4,4 @@ Apaixonado por tecnologia, redes neurais e inteligência artificial.
 
 
 ## 🌐 Redes Sociais:
-[![LinkedIn](https://www.linkedin.com/in/ronny-gabryel-colatino-de-souza-5758272b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](SEU_LINK_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronny-gabryel-colatino-de-souza-5758272b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
