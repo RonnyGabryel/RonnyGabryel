@@ -1,4 +1,4 @@
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2802d8ae-1f3b-4d04-971e-4cb1b0e7f38f" />## 👋 Sobre Mim:
+## 👋 Sobre Mim:
 Estudante de Sistemas de Informação na UFU Monte Carmelo, atualmente participando de um Bootcamp de Machine Learning.
 Apaixonado por tecnologia, redes neurais e inteligência artificial.
 
