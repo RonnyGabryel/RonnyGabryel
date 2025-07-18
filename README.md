@@ -1,4 +1,4 @@
-## 👋 Sobre Mim:
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2802d8ae-1f3b-4d04-971e-4cb1b0e7f38f" />## 👋 Sobre Mim:
 Estudante de Sistemas de Informação na UFU Monte Carmelo, atualmente participando de um Bootcamp de Machine Learning.
 Apaixonado por tecnologia, redes neurais e inteligência artificial.
 
@@ -17,4 +17,4 @@ Apaixonado por tecnologia, redes neurais e inteligência artificial.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyGabryel&show_icons=true&theme=dark) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) ![GIF](https://link-do-gif.gif)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyGabryel&show_icons=true&theme=dark) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) ![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNvOW02MGkyamo0bWp1OHUzeDlqMnlxenFzN2ZtcmtwdjB1bmY3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVBR6cLvUjV9C/giphy.gif)
