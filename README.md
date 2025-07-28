@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./link-thumbs-up.gif" width="100" height="100"/>
+</div>
+
 # Olá, eu sou o Ronny 👋
 
 <div align="center">
