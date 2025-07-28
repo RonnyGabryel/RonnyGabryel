@@ -18,5 +18,4 @@ Apaixonado por tecnologia, redes neurais e inteligência artificial.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyGabryel&show_icons=true&theme=dark) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=repo-que-nao-quer-contar)
+![](https://github-readme-stats.vercel.app/api?username=RonnyGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=300&hide_rank![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=repo-que-nao-quer-contar)
