@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./link-thumbs-up.gif" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" height="100"/>
 </div>
 
 # Olá, eu sou o Ronny 👋
