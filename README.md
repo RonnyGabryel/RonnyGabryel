@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN6NXd5MzAzcTFqajFjaGg1bnY2bWIyeGxlY2ZzNzl1NjU1bDRqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fGFLBOWoek2TUf2TjW/giphy.gif)" width="100" height="100"/>
+  <img src="[[https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN6NXd5MzAzcTFqajFjaGg1bnY2bWIyeGxlY2ZzNzl1NjU1bDRqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fGFLBOWoek2TUf2TjW/giphy.gif)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHozamF2cWRhZXo0Y3JmbzdwNzhhMGcyc2V0eHNnejQxcHE2c2FnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif)" width="100" height="100"/>
 </div>
 
 # Olá, eu sou o Ronny 👋
