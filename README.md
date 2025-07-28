@@ -43,9 +43,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&cache_seconds=300)<br/>
 
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGabryel&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyGabryel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&cache_seconds=300)<br/>
 
 </div>
