@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHozamF2cWRhZXo0Y3JmbzdwNzhhMGcyc2V0eHNnejQxcHE2c2FnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.gif" width="200" height="200"/>
+  <img ![Isometric Contributions](https://github-readme-isometric-contributions.vercel.app/api?username=RonnyGabryel)
   
   # 👋 Olá, eu sou o Ronny Gabryel
   
