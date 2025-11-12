@@ -11,16 +11,6 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
 </div>
 
----
-
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RonnyGabryel/RonnyGabryel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
 ## 🧑‍💻 Sobre Mim
 
 ```python
