@@ -116,31 +116,6 @@ ronny.diga_ola()
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Trabalho-de-Conclus-o-de-Disciplina-TCD-&theme=tokyonight&hide_border=true)](https://github.com/RonnyGabryel/Trabalho-de-Conclus-o-de-Disciplina-TCD-)
   
 </div>
-
----
-
-
-
-## 📫 Como me encontrar
-
-<div align="center">
-  
-  💼 Aberto para oportunidades e colaborações em projetos de ML/IA
-  
-  📧 **Email:** seu-email@gmail.com
-  
-  🔗 **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
-  
-  ![Visitor Count](https://profile-counter.glitch.me/RonnyGabryel/count.svg)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### ⭐ Se você gostou do meu perfil, deixe uma estrela nos repositórios! ⭐
-  
   **Feito com ❤️ e muito ☕**
   
 </div>
