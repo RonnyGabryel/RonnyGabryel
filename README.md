@@ -1,13 +1,22 @@
 <div align="center">
-  <img ![Isometric Contributions](https://github-readme-isometric-contributions.vercel.app/api?username=RonnyGabryel)
   
   # 👋 Olá, eu sou o Ronny Gabryel
+  
+  <img src="https://raw.githubusercontent.com/RonnyGabryel/RonnyGabryel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Estudante+de+Machine+Learning;Entusiasta+de+Intelig%C3%AAncia+Artificial;Desenvolvedor+Python;Sempre+aprendendo+coisas+novas+%F0%9F%9A%80" alt="Typing SVG" />
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronny-gabryel-colatino-de-souza-5758272b8/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronnygabryelcolatino@gmail.com
-)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronnygabryelcolatino@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RonnyGabryel/RonnyGabryel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
@@ -29,7 +38,7 @@ class Ronny:
         ]
     
     def diga_ola(self):
-        print("Obrigado por visitar meu perfil!")
+        print("Obrigado por visitar meu perfil! Vamos conectar? 🚀")
 
 ronny = Ronny()
 ronny.diga_ola()
@@ -115,3 +124,32 @@ ronny.diga_ola()
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=CRUD-em-C&theme=tokyonight&hide_border=true)](https://github.com/RonnyGabryel/CRUD-em-C)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Trabalho-de-Conclus-o-de-Disciplina-TCD-&theme=tokyonight&hide_border=true)](https://github.com/RonnyGabryel/Trabalho-de-Conclus-o-de-Disciplina-TCD-)
   
+</div>
+
+---
+
+
+
+## 📫 Como me encontrar
+
+<div align="center">
+  
+  💼 Aberto para oportunidades e colaborações em projetos de ML/IA
+  
+  📧 **Email:** ronnygabryelcolatino@gmail.com
+  
+  🔗 **LinkedIn:** [Ronny Gabryel](https://www.linkedin.com/in/ronny-gabryel-colatino-de-souza-5758272b8/)
+  
+  ![Visitor Count](https://profile-counter.glitch.me/RonnyGabryel/count.svg)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### ⭐ Se você gostou do meu perfil, deixe uma estrela nos repositórios! ⭐
+  
+  **Feito com ❤️ e muito ☕**
+  
+</div>
