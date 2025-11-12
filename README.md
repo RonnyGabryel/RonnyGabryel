@@ -119,27 +119,3 @@ ronny.diga_ola()
 ---
 
 
-
-## 📫 Como me encontrar
-
-<div align="center">
-  
-  💼 Aberto para oportunidades e colaborações em projetos de ML/IA
-  
-  📧 **Email:** seu-email@gmail.com
-  
-  🔗 **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
-  
-  ![Visitor Count](https://profile-counter.glitch.me/RonnyGabryel/count.svg)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### ⭐ Se você gostou do meu perfil, deixe uma estrela nos repositórios! ⭐
-  
-  **Feito com ❤️ e muito ☕**
-  
-</div>
