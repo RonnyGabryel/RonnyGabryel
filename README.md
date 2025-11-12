@@ -118,17 +118,7 @@ ronny.diga_ola()
 
 ---
 
-## 💡 Frase Inspiradora
 
-<div align="center">
-  
-  > *"A inteligência artificial é a nova eletricidade"* **- Andrew Ng**
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
 
 ## 📫 Como me encontrar
 
