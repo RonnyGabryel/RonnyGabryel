@@ -29,7 +29,7 @@ class Ronny:
         ]
     
     def diga_ola(self):
-        print("Obrigado por visitar meu perfil! Vamos conectar? 🚀")
+        print("Obrigado por visitar meu perfil!")
 
 ronny = Ronny()
 ronny.diga_ola()
