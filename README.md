@@ -8,7 +8,6 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronny-gabryel-colatino-de-souza-5758272b8/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronnygabryelcolatino@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
 </div>
 
 ## 🧑‍💻 Sobre Mim
