@@ -1,152 +1,98 @@
 <div align="center">
-    
-  # 👋 Hey Everyone, I'm Ronny Gabryel
-  <br><br>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronny-gabryel-colatino-de-souza-5758272b8/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronnygabryelcolatino@gmail.com)
-</div>
+# ✨ Welcome to my profile
 
----
+<img src="https://i.pinimg.com/originals/a1/01/b4/a101b4cd58d9ae85a1a9f85f40e36e7b.gif" width="500" alt="Coding Animation"/>
 
-## 🧑‍💻 About Me
+## **Ronny Gabryel**
 
-```python
-class RonnyGabryel:
-    def __init__(self):
-        self.name = "Ronny Gabryel"
-        self.role = "AI/ML Student"
-        self.university = "UFU Monte Carmelo"
-        self.course = "Information Systems"
-        self.location = "Monte Carmelo, MG, Brazil"
+### 🤖 MACHINE LEARNING STUDENT
 
-    def current_focus(self):
-        return [
-            "Neural Networks", "Deep Learning", "NLP",
-            "PyTorch", "TensorFlow", "Computer Vision"
-        ]
-
-    def goals_2025(self):
-        return [
-            "Master PyTorch & TensorFlow",
-            "Contribute to Open Source",
-            "Build Strong ML Portfolio",
-            "Complete ML Bootcamp"
-        ]
-```
+*Constante aprendizado, infinitas possibilidades.*
 
 <br>
 
-## 🎯 Currently Working On
-
-- 🎓 **Studying** Information Systems at UFU Monte Carmelo
-- 🤖 **Participating** in Machine Learning Bootcamp
-- 🧠 **Learning** Neural Networks & Deep Learning
-- 📊 **Building** AI projects
-- 🌱 **Always** seeking new challenges
-
----
-
-## 🛠️ Tech Stack
-
-### ⭐ Languages
-
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### 🤖 ML / Data Science
-
-<div align="center">
-  
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
-### 🔧 Tools
-
-<div align="center">
-  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Gmail](https://img.shields.io/badge/-ronnygabryelcolatino@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ronnygabryelcolatino@gmail.com)
+[![GitHub](https://img.shields.io/badge/-github.com/RonnyGabryel-181717?style=flat&logo=github&logoColor=white)](https://github.com/RonnyGabryel)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<br>
 
-<div align="center">
+Estudante de Sistemas de Informação na UFU Monte Carmelo. Atualmente trabalho com Machine Learning e Deep Learning paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de Inteligência Artificial. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras através de Redes Neurais, Computer Vision e NLP.
 
-<table>
-<tr>
-<td>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnyGabryel&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGabryel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" alt="Top Languages"/>
-
-</td>
-<td>
-
-<img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" width="300" alt="Coding GIF"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RonnyGabryel&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
-
-</div>
+<br>
 
 ---
 
-## 🏆 GitHub Trophies
+## **Connect with me!**
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RonnyGabryel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Trophies"/>
-
-</div>
-
----
-
-## 📈 Featured Projects
-
-<div align="center">
-
-[![Lamia Academy](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Lamia-Academy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7)](https://github.com/RonnyGabryel/Lamia-Academy)
-[![Sudoku](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Sudoku&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7)](https://github.com/RonnyGabryel/Sudoku)
-
-[![CRUD em C](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=CRUD-em-C&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7)](https://github.com/RonnyGabryel/CRUD-em-C)
-[![TCD](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Trabalho-de-Conclus-o-de-Disciplina-TCD-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7)](https://github.com/RonnyGabryel/Trabalho-de-Conclus-o-de-Disciplina-TCD-)
+[![EMAIL](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronnygabryelcolatino@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronny-gabryel-colatino-de-souza-5758272b8/)
 
 </div>
 
+<br>
+
+---
+
+## **My Stack ~**
+
+<div align="left">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Machine Learning & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</div>
+
+<br>
+
+---
+
+## **✦ GitHub Stats ✦**
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RonnyGabryel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGabryel&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RonnyGabryel&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=58a6ff" width="100%"/>
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
 
-### 💡 *"The only way to do great work is to love what you do"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=RonnyGabryel&color=36BCF7&style=flat-square)
-
-⭐ **Don't forget to star my repositories if you like them!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
 
 </div>
