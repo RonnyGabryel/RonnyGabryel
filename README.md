@@ -79,38 +79,3 @@ ronny.diga_ola()
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 </div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnyGabryel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGabryel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonnyGabryel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RonnyGabryel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</div>
-
----
-
-## 📈 Projetos em Destaque
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Lamia-Academy&theme=tokyonight&hide_border=true)](https://github.com/RonnyGabryel/Lamia-Academy)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Sudoku&theme=tokyonight&hide_border=true)](https://github.com/RonnyGabryel/Sudoku)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=CRUD-em-C&theme=tokyonight&hide_border=true)](https://github.com/RonnyGabryel/CRUD-em-C)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Trabalho-de-Conclus-o-de-Disciplina-TCD-&theme=tokyonight&hide_border=true)](https://github.com/RonnyGabryel/Trabalho-de-Conclus-o-de-Disciplina-TCD-)
-  
-</div>
