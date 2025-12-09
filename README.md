@@ -8,7 +8,10 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronny-gabryel-colatino-de-souza-5758272b8/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronnygabryelcolatino@gmail.com)
+  
 </div>
+
+---
 
 ## 🧑‍💻 Sobre Mim
 
@@ -85,12 +88,23 @@ ronny.diga_ola()
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnyGabryel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGabryel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyGabryel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGabryel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117)
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonnyGabryel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=RonnyGabryel&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7)
+  
+</div>
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RonnyGabryel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF)
+  
 </div>
 
 ---
@@ -98,7 +112,9 @@ ronny.diga_ola()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RonnyGabryel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=RonnyGabryel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
+  
 </div>
 
 ---
@@ -107,10 +123,34 @@ ronny.diga_ola()
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Lamia-Academy&theme=tokyonight&hide_border=true)](https://github.com/RonnyGabryel/Lamia-Academy)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Sudoku&theme=tokyonight&hide_border=true)](https://github.com/RonnyGabryel/Sudoku)
+  [![Lamia Academy](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Lamia-Academy&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/RonnyGabryel/Lamia-Academy)
+  [![Sudoku](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Sudoku&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/RonnyGabryel/Sudoku)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=CRUD-em-C&theme=tokyonight&hide_border=true)](https://github.com/RonnyGabryel/CRUD-em-C)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Trabalho-de-Conclus-o-de-Disciplina-TCD-&theme=tokyonight&hide_border=true)](https://github.com/RonnyGabryel/Trabalho-de-Conclus-o-de-Disciplina-TCD-)
+  [![CRUD em C](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=CRUD-em-C&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/RonnyGabryel/CRUD-em-C)
+  [![TCD](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGabryel&repo=Trabalho-de-Conclus-o-de-Disciplina-TCD-&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/RonnyGabryel/Trabalho-de-Conclus-o-de-Disciplina-TCD-)
+  
+</div>
+
+---
+
+## 📫 Como me encontrar
+
+<div align="center">
+  
+  💼 [LinkedIn](https://www.linkedin.com/in/ronny-gabryel-colatino-de-souza-5758272b8/) • 
+  📧 [Email](mailto:ronnygabryelcolatino@gmail.com) • 
+  💻 [GitHub](https://github.com/RonnyGabryel)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 *"A única forma de fazer um ótimo trabalho é amar o que você faz"*
+  
+  ![Visitor Count](https://profile-counter.glitch.me/RonnyGabryel/count.svg)
+  
+  ⭐ Deixe uma estrela nos repositórios se você gostou!
   
 </div>
