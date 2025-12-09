@@ -1,17 +1,10 @@
 <div align="center">
     
   # 👋 Hey Everyone, I'm Ronny Gabryel
-    
-  <img src="https://i.pinimg.com/originals/a1/01/b4/a101b4cd58d9ae85a1a9f85f40e36e7b.gif" width="600"/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Student+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Python+Developer+%F0%9F%90%8D;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
-
   <br><br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronny-gabryel-colatino-de-souza-5758272b8/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronnygabryelcolatino@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RonnyGabryel)
-
 </div>
 
 ---
